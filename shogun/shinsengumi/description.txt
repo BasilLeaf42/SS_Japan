@@ -1,0 +1,8 @@
+Faction: Shogunate
+Era: 1860s (1865-)
+
+Role: Light infantry / Shock infantry hybrid; elite-tier
+Weapons: Starr M1858 (breech-loading carbine); Katana (two-handed sword)
+Traits: Excellent morale. Frightens nearby enemies. Very strong melee stats.
+
+Long description:

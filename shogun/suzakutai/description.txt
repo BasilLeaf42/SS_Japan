@@ -1,0 +1,8 @@
+Faction: Shogunate
+Era: 1860s (1865-)
+
+Role: Line infantry; mid-tier
+Weapons: Bavarian Gewehr M-1842 (muzzle-loading rifle); Katana (two-handed sword)
+Traits: Very good morale. Strong melee stats.
+
+Long description:

@@ -1,0 +1,8 @@
+Faction: Shogunate
+Era: 1860s
+
+Role: Line infantry; mid-tier
+Weapons: Smoothbore "gewehr" (smoothbore musket); Katana (two-handed sword)
+Traits: Generally mediocre stats, will lose to other standard line infantry in a shootout. Similar melee stats to shotai/hoheitai.
+
+Long description:
