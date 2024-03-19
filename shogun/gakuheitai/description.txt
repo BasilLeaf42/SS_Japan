@@ -1,0 +1,8 @@
+Faction: Shogunate
+Era: 1865-
+
+Role: Line infantry; high tier
+Weapons: Snider-Enfield (breech-loading rifle); Katana (two-handed sword)
+Traits: Strong stats overall, but melee is fairly standard (weaker than Suzakutai).
+
+Long description:
